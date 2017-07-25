@@ -4,20 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
-
+July 25th, 2017
 ### Student Name:  
-(First and Last Name)
+Stephen Keating
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson teaches you how to work with display elements using jQuery. 
+jQuery helps developers do the heavy lifting across the DOM by giving us the
+flexibility and shorthanded code needed to create powerful, resuable code solutions.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the fadeIn() method to add interactivity to the app.
+2. How to use jQuery methods to manipulate the DOM
+3. How to use javascript console to test possible changes to an app on the fly.
 
