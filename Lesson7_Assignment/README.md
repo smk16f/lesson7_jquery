@@ -14,8 +14,7 @@ jQuery helps developers do the heavy lifting across the DOM by giving us the
 flexibility and shorthanded code needed to create powerful, resuable code solutions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://smk16f.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. How to use the fadeIn() method to add interactivity to the app.
